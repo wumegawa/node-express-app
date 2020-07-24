@@ -32,4 +32,4 @@ down:
 reset: down rebuild
 
 bash:
-	docker exec -it weatherserver /bin/bash
+	docker exec -it node-app /bin/bash
